@@ -2,4 +2,5 @@
 
 📍 University of Pittsburgh | Pursuing B.S. in Computer Science & Psychology  
 ---
-Currently really into audio analysis and GUI's...
+Feel free to email me about any inquiries: remysedlak@gmail.com
+ALWAYS open to discuss or collaborate on projects or ideas
