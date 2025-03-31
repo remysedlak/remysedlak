@@ -2,4 +2,4 @@
 
 📍 University of Pittsburgh | Pursuing B.S. in Computer Science & Psychology  
 ---
-Passionate about developing full stack application with friendly user experiences. 
+🌐 Passionate about developing full stack applications with friendly user experiences. 
