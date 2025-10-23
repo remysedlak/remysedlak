@@ -1,6 +1,7 @@
-# 👋 Hello, I'm Remy Sedlak!
+# Hi, I'm Remy 
 
-📍 University of Pittsburgh | Pursuing B.S. in Computer Science & Interactive Design
----
+**Computer Science Student** @ University of Pittsburgh School of Computing and Information
 
-I'm currently really into functional programming and machine learning. I plan to learn comp ling.
+This is my personal GitHub where I share hackathon projects and experimental apps. Feel free to explore or fork anything that interests you.
+
+💬 Open to collaborations and feedback!
